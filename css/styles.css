@@ -1,0 +1,24 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  outline: 0;
+  box-sizing: border-box;
+}
+
+.page-layout {
+  background-color: #001529;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-btn {
+  background-color: aqua;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+}
